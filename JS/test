@@ -1,0 +1,7 @@
+    <script type "text/babel">
+        const element = <h1>Hello Rony</h1>
+        ReactDOM.render(
+            contactManagement,
+            document.getElementById('react-container')
+        );
+    </script>
